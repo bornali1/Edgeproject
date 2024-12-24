@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Edgeproject": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
