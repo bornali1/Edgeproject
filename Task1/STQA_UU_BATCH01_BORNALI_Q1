@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "e1d577cc-bbb1-40d5-9633-9f78a500ef80",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "40579665"
+	},
+	"item": [
+		{
+			"name": "API Testing",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
